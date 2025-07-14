@@ -1,0 +1,17 @@
+{
+  "name": "starnet-r2-uploader",
+  "version": "1.0.0",
+  "description": "R2 uploader for STARNET dashboard deployment",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.431.0",
+    "@aws-sdk/s3-request-presigner": "^3.431.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1"
+  }
+}
