@@ -1,0 +1,17 @@
+.drop-zone {
+  border: 2px dashed #14b8a6;
+  border-radius: 12px;
+  padding: 50px;
+  text-align: center;
+  font-family: sans-serif;
+  background: #1e1e1e;
+  color: #fff;
+  margin: 50px auto;
+  max-width: 600px;
+}
+
+.log {
+  margin-top: 20px;
+  font-size: 14px;
+  color: #b2f5ea;
+}
